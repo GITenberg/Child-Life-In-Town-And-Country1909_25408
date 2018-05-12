@@ -1,0 +1,41 @@
+_repo: Child-Life-In-Town-And-Country1909_25408
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Allinson, A. R. (Alfred Richard)
+    alias: Allinson, Alfred Richard
+    birthdate: 1854
+    gutenberg_agent_id: '8208'
+    url: http://www.gutenberg.org/2009/agents/8208
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Children -- France -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'France -- Social life and customs -- Fiction'
+title: "Child Life in Town and Country\r\n1909"
+url: http://www.gutenberg.org/ebooks/25408
